@@ -1,0 +1,9 @@
+C:\Users\Nthabeleng Jimson\Desktop\SnakesGame\obj\Debug\SnakesGame.csprojAssemblyReference.cache
+C:\Users\Nthabeleng Jimson\Desktop\SnakesGame\obj\Debug\SnakesGame.frmSnakes.resources
+C:\Users\Nthabeleng Jimson\Desktop\SnakesGame\obj\Debug\SnakesGame.Properties.Resources.resources
+C:\Users\Nthabeleng Jimson\Desktop\SnakesGame\obj\Debug\SnakesGame.csproj.GenerateResource.cache
+C:\Users\Nthabeleng Jimson\Desktop\SnakesGame\bin\Debug\SnakesGame.exe.config
+C:\Users\Nthabeleng Jimson\Desktop\SnakesGame\bin\Debug\SnakesGame.exe
+C:\Users\Nthabeleng Jimson\Desktop\SnakesGame\bin\Debug\SnakesGame.pdb
+C:\Users\Nthabeleng Jimson\Desktop\SnakesGame\obj\Debug\SnakesGame.exe
+C:\Users\Nthabeleng Jimson\Desktop\SnakesGame\obj\Debug\SnakesGame.pdb
